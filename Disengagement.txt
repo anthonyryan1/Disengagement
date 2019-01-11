@@ -1,0 +1,45 @@
+[Adblock Plus 2.0]
+! Title: Disengagement
+! Expires: 7 days (update frequency)
+! Homepage: https://github.com/anthonyryan1/Disengagement
+
+! Modern social media and news is designed in a way that it attempts to attract
+! maximize my engagement on their site. They're effective.
+
+! This filter list is designed to allow me to land on social media and news
+! sites when Google searches, or direct links from people take me to one. They
+! can have small treasure troves of useful information I don't want to be cut
+! off from. But this disallows me casually browsing the headlines or getting
+! caught up in a daisy chain of suggested content.
+
+news.ycombinator.com
+@@||news.ycombinator.com/item?id=
+@@||news.ycombinator.com/news.css
+
+
+reddit.com
+@@||reddit.com/r/*/comments/*/*/
+
+
+youtube.com
+! Allow directly linked videos
+@@||youtube.com/watch?v=*
+! Static assets
+@@||youtube.com/yts/
+! Do not suggest other content
+youtube.com##.ytp-endscreen-content
+youtube.com##.ytd-watch-next-secondary-results-renderer
+
+
+slashdot.org
+! Allow directly linked threads
+@@||slashdot.org/story/*/*/*/*/
+
+arstechnica.com
+! Allow directly linked articles
+@@||arstechnica.com/*/*/*/*/
+
+
+engadget.com
+! Allow directly linked articles
+@@||www.engadget.com/*/*/*/*/
