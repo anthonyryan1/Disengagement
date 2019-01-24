@@ -24,6 +24,9 @@ reddit.com
 youtube.com
 ! Allow directly linked videos
 @@||youtube.com/watch?v=*
+! Allow embedded videos
+@@||youtube.com/iframe_api
+@@||youtube.com/embed/
 ! Static assets
 @@||youtube.com/yts/
 ! Do not suggest other content
