@@ -23,7 +23,7 @@ reddit.com
 
 youtube.com
 ! Allow directly linked videos
-@@||youtube.com/watch?v=*
+@@||youtube.com/watch
 ! Allow embedded videos
 @@||youtube.com/iframe_api
 @@||youtube.com/embed/
