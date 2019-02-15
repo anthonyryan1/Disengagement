@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Title: PeanutGallery
+! Expires: 7 days (update frequency)
+! Homepage: https://github.com/anthonyryan1/Disengagement
+
+! Blocks comment sections on news websites
+! This does not include forums / commentary focused websites
+! only places where comments are a secondary focus
+
+disqus.com

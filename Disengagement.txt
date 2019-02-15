@@ -47,3 +47,4 @@ arstechnica.com
 engadget.com
 ! Allow directly linked articles
 @@||www.engadget.com/*/*/*/*/
+
