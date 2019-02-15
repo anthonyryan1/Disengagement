@@ -27,6 +27,7 @@ youtube.com
 ! Allow embedded videos
 @@||youtube.com/iframe_api
 @@||youtube.com/embed
+@@||youtube.com/get_video_info
 ! Static assets
 @@||youtube.com/yts/
 ! Do not suggest other content
