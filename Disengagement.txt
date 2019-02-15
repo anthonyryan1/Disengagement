@@ -13,7 +13,7 @@
 ! caught up in a daisy chain of suggested content.
 
 ! Generic filters for extra / suggested content
-.trending-wrapper
+##.trending-wrapper
 
 news.ycombinator.com
 @@||news.ycombinator.com/item?id=

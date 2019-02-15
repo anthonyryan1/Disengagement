@@ -8,7 +8,7 @@
 ! only places where comments are a secondary focus
 
 ! Generic filters
-#comments
+###comments
 
 ! Big comments services
 disqus.com
