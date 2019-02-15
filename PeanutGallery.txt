@@ -7,4 +7,8 @@
 ! This does not include forums / commentary focused websites
 ! only places where comments are a secondary focus
 
+! Generic filters
+#comments
+
+! Big comments services
 disqus.com

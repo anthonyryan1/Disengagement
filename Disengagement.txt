@@ -48,3 +48,10 @@ engadget.com
 ! Allow directly linked articles
 @@||www.engadget.com/*/*/*/*/
 
+electrek.co
+! Allow directly linked articles
+@@||electrek.co/*/*/*/*/
+! Static assets
+@@||electrek.co/_static/
+! Disable infinite scroll
+#infinite-view-1
