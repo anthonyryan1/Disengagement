@@ -36,7 +36,7 @@ youtube.com
 ! Do not suggest other content
 youtube.com##.ytp-endscreen-content
 youtube.com##.ytd-watch-next-secondary-results-renderer
-
+youtube.com##.ytp-next-button
 
 slashdot.org
 ! Allow directly linked threads
