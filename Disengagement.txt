@@ -26,7 +26,9 @@ reddit.com
 
 youtube.com
 ! Allow directly linked videos
-@@||youtube.com/watch
+@@||youtube.com/watch?
+! Allow directly linked channels
+@@||youtube.com/channel/
 ! Allow embedded videos
 @@||youtube.com/iframe_api
 @@||youtube.com/embed
