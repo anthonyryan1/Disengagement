@@ -58,5 +58,6 @@ electrek.co
 @@||electrek.co/*/*/*/*/
 ! Static assets
 @@||electrek.co/_static/
+@@||electrek.co/wp-content/uploads/
 ! Disable infinite scroll
 #infinite-view-1
