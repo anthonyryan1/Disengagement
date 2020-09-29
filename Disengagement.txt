@@ -33,8 +33,9 @@ youtube.com
 @@||youtube.com/iframe_api
 @@||youtube.com/embed
 @@||youtube.com/get_video_info
+@@||youtube.com/api/
 ! Static assets
-@@||youtube.com/yts/
+@@||youtube.com/s/
 ! Do not suggest other content
 youtube.com##.ytp-endscreen-content
 youtube.com##.ytd-watch-next-secondary-results-renderer
