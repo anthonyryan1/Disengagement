@@ -18,29 +18,22 @@
 ! Infinite scroll
 #infinite-view-1
 
+
 |https://news.ycombinator.com/|
+https://news.ycombinator.com/news
+
 
 |https://reddit.com/|
 reddit.com/r/
 @@||reddit.com/r/*/comments/*/*/
 
 
-youtube.com
-! Allow directly linked videos
-@@||youtube.com/watch?
-! Allow directly linked channels
-@@||youtube.com/channel/
-! Allow embedded videos
-@@||youtube.com/iframe_api
-@@||youtube.com/embed
-@@||youtube.com/get_video_info
-@@||youtube.com/api/
-! Static assets
-@@||youtube.com/s/
+|https://www.youtube.com/|
 ! Do not suggest other content
 youtube.com##.ytp-endscreen-content
 youtube.com##.ytd-watch-next-secondary-results-renderer
 youtube.com##.ytp-next-button
+
 
 slashdot.org
 ! Allow directly linked threads
@@ -54,6 +47,7 @@ arstechnica.com
 engadget.com
 ! Allow directly linked articles
 @@||www.engadget.com/*/*/*/*/
+
 
 |https://electrek.co/|
 electrek.co##nav
