@@ -29,10 +29,10 @@ reddit.com/r/
 
 
 |https://www.youtube.com/|
-! Do not suggest other content
 youtube.com##.ytp-endscreen-content
 youtube.com##.ytd-watch-next-secondary-results-renderer
 youtube.com##.ytp-next-button
+youtube.com##a[href="/"]
 
 
 slashdot.org
