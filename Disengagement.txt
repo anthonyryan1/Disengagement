@@ -12,24 +12,16 @@
 ! off from. But this disallows me casually browsing the headlines or getting
 ! caught up in a daisy chain of suggested content.
 
-! Generic filters for extra / suggested content
+! Suggested content
 ##.trending-wrapper
 
 ! Infinite scroll
 #infinite-view-1
 
-news.ycombinator.com
-! Allow directly linked discussions
-@@||news.ycombinator.com/item?id=
+|https://news.ycombinator.com/|
 
-! Static assets
-@@||news.ycombinator.com/favicon.ico
-@@||news.ycombinator.com/news.css
-@@||news.ycombinator.com/hn.js
-@@||news.ycombinator.com/*.gif
-
-
-reddit.com
+|https://reddit.com/|
+reddit.com/r/
 @@||reddit.com/r/*/comments/*/*/
 
 
