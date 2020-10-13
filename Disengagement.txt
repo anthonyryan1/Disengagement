@@ -15,9 +15,18 @@
 ! Generic filters for extra / suggested content
 ##.trending-wrapper
 
+! Infinite scroll
+#infinite-view-1
+
 news.ycombinator.com
+! Allow directly linked discussions
 @@||news.ycombinator.com/item?id=
+
+! Static assets
+@@||news.ycombinator.com/favicon.ico
 @@||news.ycombinator.com/news.css
+@@||news.ycombinator.com/hn.js
+@@||news.ycombinator.com/*.gif
 
 
 reddit.com
@@ -54,11 +63,5 @@ engadget.com
 ! Allow directly linked articles
 @@||www.engadget.com/*/*/*/*/
 
-electrek.co
-! Allow directly linked articles
-@@||electrek.co/*/*/*/*/
-! Static assets
-@@||electrek.co/_static/
-@@||electrek.co/wp-content/uploads/
-! Disable infinite scroll
-#infinite-view-1
+|https://electrek.co/|
+electrek.co##nav
