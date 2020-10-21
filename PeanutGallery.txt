@@ -7,8 +7,9 @@
 ! This does not include forums / commentary focused websites
 ! only places where comments are a secondary focus
 
-! Generics
+! Generic
 ###comments
+###supporters_comments
 disqus.com
 
 
