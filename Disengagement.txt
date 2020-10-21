@@ -49,3 +49,7 @@ arstechnica.com##.inline-playlist
 engadget.com###engadget-recirculation-module
 
 |https://electrek.co/|
+
+|https://www.bloomberg.com/|
+|https://www.bloomberg.com/businessweek|
+! TODO: Block recommendations
